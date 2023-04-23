@@ -4,4 +4,4 @@
 
 ### App Project, using Tailwind CSS
 
-![Tesla](screenshot/tesla.png 'Tesla')
+![Spotify](screenshot/spotify.png 'Spotify')
